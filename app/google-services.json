@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935585235379",
+    "firebase_url": "https://streamchat-ac9d5-default-rtdb.firebaseio.com",
+    "project_id": "streamchat-ac9d5",
+    "storage_bucket": "streamchat-ac9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935585235379:android:39625916b62ce85a6a8bc6",
+        "android_client_info": {
+          "package_name": "com.example.streamchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfncucvuYyQ3BifG8w9brqrmjdLIsKLtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
